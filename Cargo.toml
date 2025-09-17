@@ -1,6 +1,6 @@
 [package]
 name = "super-maker"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Data generator designed specifically for turbo-maker."
 keywords = [
